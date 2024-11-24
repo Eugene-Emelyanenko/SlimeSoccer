@@ -1,0 +1,12 @@
+SETTING=Setting
+PLAY=Play
+MENU=Menu
+RULESNAME=How to play
+RESUME=Resume
+RESTART=Restart
+SHOP=Shop
+RULESTEXT=Defend the basketball hoop from the red balls by pushing them away with the basketball
+LEADERBOARD=Leaderboard
+PAUSE=Pause
+WIN=WIN
+LOSE=LOSE

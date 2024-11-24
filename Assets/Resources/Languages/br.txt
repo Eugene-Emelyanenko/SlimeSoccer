@@ -1,0 +1,12 @@
+SETTING=Configuracao
+PLAY=Jogar
+MENU=Menu
+RULESNAME=Como jogar
+RESUME=Resumo
+RESTART=Reiniciar
+SHOP=Loja
+RULESTEXT=Defenda a cesta de basquete das bolas vermelhas, empurrando-as para longe com a bola de basquete
+LEADERBOARD=Tabela de classificacao
+PAUSE=Pausa
+WIN=GANHAR
+LOSE=PERDER
